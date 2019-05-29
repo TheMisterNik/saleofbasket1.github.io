@@ -1,0 +1,155 @@
+body{
+	background-image: url(images/fon.jpg);
+}
+
+#headBlock{
+	width: 98%;
+	height: 50px;
+	background-color:#fff;
+	border-bottom:2px solid silver;
+}
+
+h1{
+	text-align:center;
+	color:black;
+	margin: 40px;
+	font-weight:650;
+}
+
+#h21{
+	text-align:center;
+	color:black;
+	margin: 40px;
+	font-weight:650;
+	background-color:#ffffff;
+	color:Black;
+	border:7px solid #B4D6E8;
+	border-radius:40px;
+	opacity:0.81;
+	box-shadow:10px 10px 11px #B1B9BD;
+	width:75%;
+}
+
+#h22{
+	text-align:center;
+	color:black;
+	margin: 40px;
+	font-weight:650;
+	background-color:#ffffff;
+	color:Black;
+	border:7px solid #B4D6E8;
+	border-radius:40px;
+	opacity:0.81;
+	box-shadow:10px 10px 11px #B1B9BD;
+	width:75%;
+}
+
+#h23{
+	text-align:center;
+	color:black;
+	margin: 40px;
+	font-weight:650;
+	background-color:#ffffff;
+	color:Black;
+	border:7px solid #B4D6E8;
+	border-radius:40px;
+	opacity:0.81;
+	box-shadow:10px 10px 11px #B1B9BD;
+	width:75%;
+}
+
+#h24{
+	text-align:center;
+	color:black;
+	margin: 40px;
+	font-weight:650;
+	background-color:#ffffff;
+	color:Black;
+	border:7px solid #B4D6E8;
+	border-radius:40px;
+	opacity:0.81;
+	box-shadow:10px 10px 11px #B1B9BD;
+	width:75%;
+}
+
+#h25{
+	text-align:center;
+	color:black;
+	margin: 40px;
+	font-weight:650;
+	background-color:#ffffff;
+	color:Black;
+	border:7px solid #B4D6E8;
+	border-radius:40px;
+	opacity:0.81;
+	box-shadow:10px 10px 11px #B1B9BD;
+	width:75%;
+}
+
+
+/* CSS Position*/
+
+.box{
+	background: #FEFAEF;
+	color:white;
+	height: 50px;
+	width: 255px;
+	margin:20px 0;
+}
+
+#relative-box {
+	position: relative;
+	top:-630px;
+	left:1452px;
+	color: #000000;
+	font-size: 36px
+}
+
+.box2{
+	background: #FEFAEF;
+	color:white;
+	height: 400px;
+	width: 330px;
+	margin:20px 0;
+}
+
+#relative-box2{
+	position: relative;
+	top:-520px;
+	left:1460px;
+	color: #000000;
+	font-size: 24px
+}
+
+.box3{
+	background: #FEFAEF;
+	color:white;
+	height: 200px;
+	width: 330px;
+	margin:20px 0;
+}
+
+#relative-box3{
+	position: relative;
+	top:-730px;
+	left:1460px;
+	color: #000000;
+	font-size: 22px
+}
+
+.box4{
+	background: #FEFAEF;
+	color:white;
+	height: 200px;
+	width: 330px;
+	margin:20px 0;
+}
+
+#relative-box4{
+	position: relative;
+	top:-845px;
+	left:1460px;
+	color: #000000;
+	font-size: 22px
+}
+
